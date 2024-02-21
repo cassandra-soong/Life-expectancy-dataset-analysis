@@ -6,6 +6,7 @@ Goals of analysis:
 3. How does Infant and Adult mortality rates affect life expectancy? 
 4. How many countries with life expectancy in ranges <50, 50-60, 61-75, and >75?
 
+NOTE: Download the html version of the notebook to view the Altair visualizations.
 
 Dataset source from Kaggle: 
 https://www.kaggle.com/datasets/augustus0498/life-expectancy-who 
